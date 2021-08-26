@@ -8,3 +8,4 @@ $ git clone https://github.com/abdullahxyz/brute
 $ cd brute
 $ python main.py
 ```
+* open source code
